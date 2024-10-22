@@ -2,7 +2,7 @@
 Sales Performance Dashboard
 
 ## Overview:
-This was a quick project, mostly focused on getting familiar with the tools and processes of Power BI, incorporating data preparation, modelling, calculations and dashboard visualisation. It featured tips & techniques from the Youtuber Chandoo: https://www.youtube.com/@chandoo_
+This was a quick project, mostly focused on getting familiar with the tools and processes of Power BI, incorporating data preparation, modelling, calculations and dashboard visualisation. It featured tips & techniques from the Youtuber Chandoo: https://www.youtube.com/@chandoo_/
 
 ## Steps/Actions Included:
 - Power Query unpivot
